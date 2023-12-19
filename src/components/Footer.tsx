@@ -9,9 +9,9 @@ const Footer = () => {
           <a
             className="underline"
             target="_blank"
-            href="https://github.com/whitehorse21"
+            href="https://kingsolution.digital"
           >
-            whitehorse21
+            King Solution
           </a>
         </h1>
         <ul className="flex flex-wrap">
